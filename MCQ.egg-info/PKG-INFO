@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: MCQ
+Version: 0.0.1
+Author: Dinesh
+Author-email: dineshs.2119@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: pypdf2
+Requires-Dist: langchain-openai
